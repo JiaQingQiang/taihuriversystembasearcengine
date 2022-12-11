@@ -1,6 +1,6 @@
 # taihuriversystembasearcengine
 基于C#ArcEngine的太湖流域水资源信息管理系统(基本包含ae中所有的基础操作)
-#### 这是2019年在学校里编写的C#ArcEngine项目
+#### 这是2019年在交流时编写的C#ArcEngine项目
 
 #### 基本包含所有的AE基础操作 ：如下应该包含在下面 记不太清了
 
